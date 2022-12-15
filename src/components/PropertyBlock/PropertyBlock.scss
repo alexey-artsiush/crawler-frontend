@@ -1,0 +1,13 @@
+@import '../../utils/colors.scss';
+
+.property-block {
+  height: 200px;
+  margin-top: 50px;
+  padding: 40px 0 0 0;
+  width: 100%;
+}
+
+.property-block h3 {
+  color: $c-white;
+  margin: 20px 0 0 10%;
+}
