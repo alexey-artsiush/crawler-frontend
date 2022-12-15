@@ -36,6 +36,14 @@
     "eject": "react-scripts eject",
     "lint": "eslint --fix --ext .js,.jsx ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-artsiush/crawler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexey-artsiush/crawler/issues"
+  },
+  "homepage": "https://github.com/alexey-artsiush/crawler#readme",
   "browserslist": {
     "production": [
       ">0.2%",
